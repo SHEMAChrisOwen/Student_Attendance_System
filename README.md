@@ -24,7 +24,7 @@ Level: 6, Year 2
 
 ######  **Live Demo**
 
-\[http://studattendance.atwebpages.com/]
+\[http://studattendance.atwebpages.com]
 
 
 
@@ -143,6 +143,7 @@ php
     $password = "YourPassword";         
 
     
+
 
 
 
